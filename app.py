@@ -24,3 +24,4 @@ for i in final_X:
   all_value.append(result)
 
 st.write(all_value)
+
